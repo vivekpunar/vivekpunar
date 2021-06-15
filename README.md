@@ -6,7 +6,6 @@
 
 
 - :App: My current project is making a  application
-- 🧪 I'm testing websites for Testbirds 
 - 🌱 I want to learn more 
 - :building_construction: I’m looking for a  developer job 
 
